@@ -1,0 +1,22 @@
+Eduardo Chavez
+
+echavez9@ucsc.edu
+
+CMPS 101- W17
+pa3
+
+////////////////////////////////////////////////////////
+
+Sparse.java		Client Module for Matrix ADT
+
+Matrix.java		Sparse Matrix ADT
+
+List.java		Doubly linked list ADT
+
+MatrixTest.java		Tests methods from Matrix
+
+ListTest.java		Tests methods from List
+
+Makefile
+
+README

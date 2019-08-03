@@ -1,0 +1,13 @@
+Eduardo Chavez
+echavez9@ucsc.edu
+CMPS 101
+Winter 2017
+PA1
+19 January 2017
+/////////	////////////
+List.java	Doubly linked list ADT 
+ListClient.java	Tests the methods from List
+Lex.java	Client module Lex will implement List ADT 
+		to lexicographically sort strings from input file.
+Makefile
+README
